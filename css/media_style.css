@@ -1,0 +1,16 @@
+/*768 - перестроение блоков col-sm*/
+
+@media only screen and (max-width : 768px){
+	.edit_form1 {
+		 
+		position: relative;
+		left:50%;
+		margin-left:-140px;
+	}
+	.edit_label {
+		margin-top:30px;
+		position: relative;
+		left:50%;
+		margin-left:-80px;
+	}
+}
